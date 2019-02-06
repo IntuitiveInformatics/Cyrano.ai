@@ -1,2 +1,2 @@
 # Cyrano.ai
-This is for discussion
+The main repository for the Cyrano.ai system

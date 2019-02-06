@@ -1,2 +1,2 @@
 # Cyrano.ai
-The main repository for the Cyrano.ai system
+The main repository for the Cyrano.ai implementation system
